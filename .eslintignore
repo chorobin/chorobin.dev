@@ -1,0 +1,4 @@
+./sst/types/**/*
+sst-env.d.ts
+dist
+build
